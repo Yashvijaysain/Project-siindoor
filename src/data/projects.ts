@@ -10,12 +10,12 @@ const projectsData: Project[] = [
     demo: 'https://example.com',
   },
   {
-    title: 'Task Management App',
-    description: 'A collaborative task management tool with real-time updates, drag-and-drop functionality, and team collaboration features.',
+    title: 'YVS Manager',
+    description: 'YVS-Manager is a Django-powered web application that streamlines volunteer registration, scheduling, and hour tracking through a responsive Bootstrap frontend.',
     image: 'https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    technologies: ['TypeScript', 'React', 'Firebase', 'Tailwind CSS'],
+    technologies: ['Django', 'Python', 'Bootstrap', 'PostgreSQL', 'HTML/CSS'],
     github: 'https://github.com',
-    demo: 'https://example.com',
+    demo: 'https://yvs-manager.vercel.app',
   },
   {
     title: 'Social Media Dashboard',
