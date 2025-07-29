@@ -52,7 +52,7 @@ const Projects: React.FC = () => {
                             href={project.demo}
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="text-gray-300 hover:text-white transition-colors flex items-center gap-2"
+                            className="text-gray-300 hover:text-white transition-colors flex items-center gap-2 cursor-pointer"
                           >
                             <span>Live Demo</span>
                             <ExternalLink size={16} />
